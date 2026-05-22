@@ -1,0 +1,8 @@
+numpy
+sounddevice
+tensorflow
+tensorflow-hub
+firebase-admin
+SpeechRecognition
+scipy
+PyAudio
